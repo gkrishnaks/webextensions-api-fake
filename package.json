@@ -16,7 +16,7 @@
     "mocha": "^5.0.1",
     "require-reload": "^0.2.2",
     "sinon": "^4.4.2",
-    "sinon-chai": "^2.14.0"
+    "sinon-chai": "^3.0.0"
   },
   "scripts": {
     "example": "mocha examples/**/*.test.js"
